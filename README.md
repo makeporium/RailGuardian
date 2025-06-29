@@ -97,7 +97,8 @@ Want to see it in action? Stay tuned for a full walkthrough.
 
 Ayush Shrivastava, 
 Nimit Aryan,
-Yash Kumar Sharma
+Yash Kumar Sharma. 
+
 2nd Year BTech CSE, BML Munjal University  
 Working in a team to digitize public infrastructure with minimal tech, maximum impact.
 
