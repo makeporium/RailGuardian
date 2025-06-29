@@ -111,7 +111,7 @@ If you're from a civic-tech org, startup, railway tech division, or government i
 ---
 
 > ⚠️ This project is intended for **educational**, **pilot**, and **early-stage deployment** purposes only.  
-> The content or system does **not represent** Indian Railways or any official entity — yet.  
+> The content or system does **not represent** Indian Railways or any official entity yet.  
 > All logos/trademarks used are for demonstration purposes.
 
 ---
