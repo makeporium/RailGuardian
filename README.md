@@ -14,7 +14,7 @@ Indian trains, despite being used by millions daily, suffer from inconsistent hy
 
 RailGuardian digitizes the hygiene & safety workflow with an offline-first system using:
 
-- **QR-based checkpoints** inside train coaches and toilets for cleaning staff
+- **QR-based checkpoints** inside train coaches for cleaning staff
 - **Photo capture & AI verification** to confirm real cleaning activity
 - **Offline storage** and background syncing for low-network zones
 - **Automatic complaint assignment** based on QR scans by passengers
@@ -25,7 +25,7 @@ RailGuardian digitizes the hygiene & safety workflow with an offline-first syste
 ## 🔧 Key Features
 
 ### 🧹 For Staff (Android App)
-- Scan QR/NFC tags inside coaches/toilets to mark cleaning
+- Scan QR/NFC tags inside coaches to mark cleaning
 - Upload real-time cleaning proof photo
 - Lightweight AI model (on-device) checks for cleanliness
 - Works offline with delayed sync
@@ -74,7 +74,6 @@ RailGuardian digitizes the hygiene & safety workflow with an offline-first syste
 | Mobile App | React Native + SQLite       |
 | Backend    | Node.js + MongoDB/Postgres  |
 | AI         | TensorFlow Lite (tinyML)    |
-| Hosting    | Railway NIC cloud / AWS     |
 
 ---
 
@@ -96,9 +95,11 @@ Want to see it in action? Stay tuned for a full walkthrough.
 
 ## 🙋‍♂️ Built By
 
-👨‍💻 Ayush Shrivastava , Nimit Aryan
+Ayush Shrivastava, 
+Nimit Aryan,
+Yash Kumar Sharma
 2nd Year BTech CSE, BML Munjal University  
-Working with a 3-person student team to digitize public infrastructure with minimal tech, maximum impact.
+Working in a team to digitize public infrastructure with minimal tech, maximum impact.
 
 ---
 
