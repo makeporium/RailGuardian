@@ -96,9 +96,7 @@ Want to see it in action? Stay tuned for a full walkthrough.
 
 ## 🙋‍♂️ Built By
 
-👨‍💻 Ayush Shrivastava  
-2nd Year BTech CSE, BML Munjal University  
-Working with a 3-person student team to digitize public infrastructure with minimal tech, maximum impact.
+Ayush Shrivastava, Nimit Aryan and Yash Bhargav
 
 ---
 
