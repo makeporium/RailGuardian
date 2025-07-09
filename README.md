@@ -96,7 +96,7 @@ Want to see it in action? Stay tuned for a full walkthrough.
 
 ## 🙋‍♂️ Built By
 
-Ayush Shrivastava, Nimit Aryan and Yash Bhargav
+Ayush Shrivastava, Nimit Bhargav and Yash Kumar Sharma
 
 ---
 
