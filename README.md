@@ -1,12 +1,12 @@
-# 🚆 RailGuardian — Smart Hygiene & Maintenance System for Indian Railways
+# 🚆 RailGuardian  Smart Hygiene & Maintenance System for Indian Railways
 
-**RailGuardian** is a lightweight, AI-assisted platform designed to modernize how hygiene, maintenance, and complaint management is handled across India's train coaches — without needing complex infrastructure or passenger apps.
+**RailGuardian** is a lightweight, AI-assisted platform designed to modernize how hygiene, maintenance, and complaint management is handled across India's train coaches without needing complex infrastructure or passenger apps.
 
 ---
 
 ## 🧠 Problem Statement
 
-Indian trains, despite being used by millions daily, suffer from inconsistent hygiene standards, inefficient staff monitoring, and delayed responses to passenger complaints. Existing systems are outdated, rely on manual logs, and often lack real-time accountability — especially in remote regions with poor network access.
+Indian trains, despite being used by millions daily, suffer from inconsistent hygiene standards, inefficient staff monitoring, and delayed responses to passenger complaints. Existing systems are outdated, rely on manual logs, and often lack real-time accountability especially in remote regions with poor network access.
 
 ---
 
@@ -26,7 +26,7 @@ RailGuardian digitizes the hygiene & safety workflow with an offline-first syste
 
 ### 🧹 For Staff (Android App)
 - Scan QR/NFC tags inside coaches/toilets to mark cleaning
-- Upload real-time cleaning proof photo
+- Upload real time cleaning proof photo
 - Lightweight AI model (on-device) checks for cleanliness
 - Works offline with delayed sync
 
@@ -36,7 +36,7 @@ RailGuardian digitizes the hygiene & safety workflow with an offline-first syste
 
 ### 🧾 For Passengers
 - Scan QR code inside any coach to report issues (form-based)
-- No need to download app — mobile browser interface
+- No need to download app  mobile browser interface
 - Complaints are auto-assigned based on coach QR
 
 ### 📊 For Admins
@@ -52,7 +52,7 @@ RailGuardian digitizes the hygiene & safety workflow with an offline-first syste
 - ✅ **Offline-first** design with SQLite sync
 - ✅ **No dependency on smartphone apps** for passengers
 - ✅ **AI-assisted validation** to avoid fake uploads
-- ✅ **Modular deployment** — works with basic Android phones
+- ✅ **Modular deployment**  works with basic Android phones
 - ✅ **Compatible with SMS/USSD fallback (planned)**
 
 ---
@@ -102,7 +102,7 @@ Ayush Shrivastava, Nimit Bhargav and Yash Kumar Sharma
 
 ## 📬 Want to Collaborate?
 
-If you're from a civic-tech org, startup, railway tech division, or government innovation body — we’d love to connect and pilot this where it matters.
+If you're from a civic-tech org, startup, railway tech division, or government innovation body we’d love to connect and pilot this where it matters.
 
 ---
 
